@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- TODO: Passo 1 - Substitua esta ScrollView e seus filhos por uma RecyclerView -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerview_cars"
         android:layout_width="match_parent"

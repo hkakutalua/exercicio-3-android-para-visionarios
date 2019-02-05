@@ -46,7 +46,7 @@ public class CarsAdapter extends RecyclerView.Adapter<CarsAdapter.CarViewHolder>
         }
     }
 
-    // TODO: Passo 5 - Crie uma interface OnCarItemClickedListener com um método onCarItemClickedListener
+    // TODO: Passo 5 - Crie uma interface OnCarItemClickedListener com um método onCarItemClicked
     // Nota: as classes que implementam esta interface podem ser notificados sobre os carros clicados
 
     class CarViewHolder extends RecyclerView.ViewHolder {
